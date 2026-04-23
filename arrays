@@ -1,0 +1,12 @@
+let groceryItems = ["Milk", "Eggs", "Bread", "Butter", "Cheese"];
+let prices = [3.99, 2.49, 1.99];
+console.log("groceryItems:", groceryItems);
+console.log("prices:", prices);
+console.log("First grocery item:", groceryItems[0]);
+console.log("Second grocery item:", groceryItems[1]);
+console.log("Third grocery item:", groceryItems[2]);
+//console.log("Fourth grocery item:", groceryItems[3]);
+//console.log("Fifth grocery item:", groceryItems[4]);
+console.log("First price:", prices[0]);
+console.log("Second price:", prices[1]);
+//console.log("Third price:", prices[2]);
